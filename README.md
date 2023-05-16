@@ -34,7 +34,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/awais-akhter/Simple-Calculator-in-JS.git
    
 2. Open the project directory.
 3. Double-click on the index.html file to open it in your web browser.
