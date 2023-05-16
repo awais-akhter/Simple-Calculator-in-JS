@@ -17,7 +17,7 @@ This project is a basic calculator that performs simple arithmetic operations. I
 
 ## Demo
 
-You can try out the calculator by accessing the [live demo](https://your-demo-link.com).
+You can try out the calculator by accessing the [live demo](https://calnum.000webhostapp.com/Calculator/index.html).
 
 ## Getting Started
 
