@@ -40,15 +40,15 @@ Make sure you have the following installed:
 3. Double-click on the index.html file to open it in your web browser.
 
 ### Usage
-• Enter numbers and perform calculations by clicking the respective buttons on the calculator.
-• Use the "AC" button to clear the input.
-• Use the "Del" button to erase the last entered character.
-• Click the "=" button to evaluate the expression and display the result.
+- Enter numbers and perform calculations by clicking the respective buttons on the calculator.
+- Use the "AC" button to clear the input.
+- Use the "Del" button to erase the last entered character.
+- Click the "=" button to evaluate the expression and display the result.
 
 ### Technologies Used
-• HTML
-• CSS
-• JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ### Author
 Muhammad Awais Akhter
